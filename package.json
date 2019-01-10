@@ -1,0 +1,32 @@
+{
+  "name": "na-da-bot",
+  "version": "2.0.3",
+  "description": "na_da is testing bot shit",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "na_da",
+  "license": "",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.6.0",
+    "moment": "^2.23.0",
+    "moment-duration-format": "^2.2.2",
+    "express": "^4.16.4",
+    "node-fetch": "^2.3.0",
+    "query-string": "6.2.0"
+  }
+}

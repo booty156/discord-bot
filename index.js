@@ -2,6 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const fs = require('fs');
 const { prefix, token } = require('./config.json');
+const {random} = require('./commands/setrandom.js');
 
 
 client.once('ready', () => {
@@ -136,12 +137,6 @@ client.on('messageReactionRemove', (reaction, user) => {
             console.log(`Removed ${user.tag} (${user.id}) the War Dust role.`);
           }
       }
-});
-
-/*╔═══════════════════════════════════════╗
-    prune
-  ╚═══════════════════════════════════════╝*/
-
-
+});  
 
 client.login(token);

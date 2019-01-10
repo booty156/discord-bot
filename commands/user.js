@@ -1,5 +1,5 @@
 module.exports = {
-	name: 'user-info',
+	name: 'user',
 	description: 'Display info about yourself.',
 	execute(message) {
     

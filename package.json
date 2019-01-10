@@ -22,7 +22,7 @@
   "homepage": "",
   "dependencies": {
     "discord.js": "^11.4.2",
-    "enmap": "^4.6.0",
+    "enmap": "^4.6.5",
     "moment": "^2.23.0",
     "moment-duration-format": "^2.2.2",
     "express": "^4.16.4",

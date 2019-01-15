@@ -1,0 +1,14 @@
+
+.glitch-assets
+shrinkwrap.yaml
+
+watch.json
+config.json
+
+commands/echo.js
+
+embed
+backup index role listener
+commands/help
+commands/eslhelp
+backup/

@@ -27,6 +27,7 @@
     "moment-duration-format": "^2.2.2",
     "express": "^4.16.4",
     "node-fetch": "^2.3.0",
-    "query-string": "6.2.0"
+    "query-string": "6.2.0",
+    "string-similarity": "^3.0.0"
   }
 }
